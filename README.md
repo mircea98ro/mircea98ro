@@ -1,5 +1,5 @@
 ### `Hello world`, I'm Mircea! 👋
-#### Currently I'm:
+#### These days I'm:
 - ⚙️ Developing **firmware for [the best looking intercom line-up](https://www.linkedin.com/posts/electra_3_ada2020-archiproductsdesignawards-ada2020-activity-6759371591655723008-j3FX)**
 - 📚 Studying for a Master's Degree in **System Engineering**
 - 👨‍🏫 Teaching undergrads some engineering basics:
