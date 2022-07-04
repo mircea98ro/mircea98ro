@@ -7,11 +7,11 @@
     - **Digital electronics**
     - **Intel 8081 architecture & ASM**
 #### Recently I: 
-- finished my 📚 Master's Degree in **System Engineering** (with ✨**9.88**✨)
-- wrote my dissertation on „Real-time person re-identification in a robotic solution with limited resources" (scored a ✨**perfect 10**✨) 
+- Finished my 📚 Master's Degree in **System Engineering** (with ✨**9.88/10**✨)
+- Wrote my dissertation on `Real-time person re-identification in a robotic solution with limited resources` (scored a ✨**10/10**✨) 
     - Code [here](https://github.com/mircea98ro/pedestrian_detector_distributed_assignment)
     - Thesis [here](https://github.com/mircea98ro/mircea98ro/blob/main/Master_Thesis.pdf)
-    - Paper **coming soon**.
+    - Paper **coming soon**
 #### Find me on:
 <a target="_blank" href="https://www.linkedin.com/in/mircea98ro/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
@@ -34,5 +34,5 @@
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="Embedded C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />
-<img align="left" alt="MPLAB X" width="26px" src="https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide/_jcr_content/root/responsivegrid/container/container/isolatedimage_copy/image.coreimg.png/1612294657229/mplab-xide-transparent-background.png" />
+<img align="left" alt="MPLAB X" width="26px" src="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide/_jcr_content/root/responsivegrid/container/container/isolatedimage_copy/image.coreimg.png/1651140970636/mplab-xide-transparent-background.png" />
 </br>
