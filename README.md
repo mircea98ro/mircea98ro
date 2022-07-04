@@ -1,12 +1,17 @@
 ### `Hello world`, I'm Mircea! 👋
 #### These days I'm:
 - ⚙️ Developing **firmware for [the best looking intercom line-up](https://www.linkedin.com/posts/electra_3_ada2020-archiproductsdesignawards-ada2020-activity-6759371591655723008-j3FX)**
-- 📚 Studying for a Master's Degree in **System Engineering**
+- 💪 Praying daily in the ✨**house of gains**✨
 - 👨‍🏫 Teaching undergrads some engineering basics:
     - **Boolean algebra**
     - **Digital electronics**
     - **Intel 8081 architecture & ASM**
-- 💪 Praying daily in the ✨**house of gains**✨
+#### Recently I: 
+- finished my 📚 Master's Degree in **System Engineering** (with ✨**9.88**✨)
+- wrote my dissertation on „Real-time person re-identification in a robotic solution with limited resources" (scored a ✨**perfect 10**✨) 
+    - Code [here](https://github.com/mircea98ro/pedestrian_detector_distributed_assignment)
+    - Thesis [here](https://github.com/mircea98ro/mircea98ro/blob/main/Master_Thesis.pdf)
+    - Paper **coming soon**.
 #### Find me on:
 <a target="_blank" href="https://www.linkedin.com/in/mircea98ro/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
