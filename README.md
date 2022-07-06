@@ -12,6 +12,11 @@
     - Code [here](https://github.com/mircea98ro/pedestrian_detector_distributed_assignment)
     - Thesis [here](https://github.com/mircea98ro/mircea98ro/blob/main/Master_Thesis.pdf)
     - Paper **coming soon**
+    
+#### More background:
+- Finished my 📚 Bachelor's Degree in **Automatic Control** in 2020 (with ✨**8.72/10**✨)
+- Wrote my thesis on `Design and development of a mobile robot with inverted pendulum` (scored a ✨**9.75/10**✨) 
+    - Thesis [here](https://github.com/mircea98ro/mircea98ro/blob/main/Bachelor_Thesis.pdf)
 #### Find me on:
 <a target="_blank" href="https://www.linkedin.com/in/mircea98ro/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
