@@ -17,6 +17,7 @@
     - **Boolean algebra**
     - **Digital electronics**
     - **Intel 8085 architecture & ASM**
+    - **Statistics**
 #### Find me on:
 <a target="_blank" href="https://www.linkedin.com/in/mircea98ro/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
