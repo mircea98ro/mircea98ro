@@ -7,7 +7,7 @@
 - Wrote my dissertation on `Real-time person re-identification in a robotic solution with limited resources` (scored a ✨**10/10**✨) 
     - Code [here](https://github.com/mircea98ro/pedestrian_detector_distributed_assignment)
     - Thesis [here](https://github.com/mircea98ro/mircea98ro/blob/main/Master_Thesis.pdf)
-    - Paper **coming soon**
+    - Paper [here](https://doi.org/10.1007/978-3-031-21065-5_18)
     
 #### More background:
 - Finished my 📚 Bachelor's Degree in **Automatic Control** in 2020 (with ✨**8.72/10**✨)
