@@ -1,15 +1,19 @@
 ### `Hello world`, I'm Mircea! 👋
 #### These days I'm:
-- ⚙️ Developing **firmware for [the best looking intercom line-up](https://www.linkedin.com/posts/electra_3_ada2020-archiproductsdesignawards-ada2020-activity-6759371591655723008-j3FX)**
-- 💪 Praying daily in the ✨**house of gains**✨
+- 💼 Managing my new company
+- ⚙️ Developing low-level firmware for automotive-grade devices
+- 👨🏻‍🔬 Tinkering on my own projects
+- 💪 Praying in the ✨**house of gains**✨
+
 #### Recently I: 
 - Finished my 📚 Master's Degree in **System Engineering** (with ✨**9.88/10**✨)
 - Wrote my dissertation on `Real-time person re-identification in a robotic solution with limited resources` (scored a ✨**10/10**✨) 
     - Code [here](https://github.com/mircea98ro/pedestrian_detector_distributed_assignment)
     - Thesis [here](https://github.com/mircea98ro/mircea98ro/blob/main/Master_Thesis.pdf)
-    - Paper [here](https://doi.org/10.1007/978-3-031-21065-5_18)
+    - Paper [here (Springer)](https://doi.org/10.1007/978-3-031-21065-5_18)
     
 #### More background:
+- ⚙️ Used to develop **firmware for [the best looking intercom line-up](https://www.linkedin.com/posts/electra_3_ada2020-archiproductsdesignawards-ada2020-activity-6759371591655723008-j3FX)**
 - Finished my 📚 Bachelor's Degree in **Automatic Control** in 2020 (with ✨**8.72/10**✨)
 - Wrote my thesis on `Design and development of a mobile robot with inverted pendulum` (scored a ✨**9.75/10**✨) 
     - Thesis [here](https://github.com/mircea98ro/mircea98ro/blob/main/Bachelor_thesis.pdf)
